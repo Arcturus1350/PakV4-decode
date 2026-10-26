@@ -1,0 +1,52 @@
+return {
+	BUFF = {
+		[332] = {
+			{
+				nLevel = 1,
+				dwID = 17596,
+			},
+		},
+	},
+	CHAT = {},
+	CASTING = {
+		[332] = {
+			{
+				nLevel = 1,
+				dwID = 9004,
+			},
+		},
+	},
+	TALK = {},
+	NPC = {
+		[332] = {
+			{
+				nFrame = 47,
+				dwID = 61592,		
+			},
+		},
+	},
+	DEBUFF = {
+		[332] = {
+			{
+				nLevel = 1,
+				dwID = 17801,
+			},
+		},
+	},
+	__meta = {
+		szServer = "qwq",
+		szAuthor = "Ã×ÂÞÙÉÑÄ",
+		szCustomVoicePacketUUID = "",
+		szLang = "zhcn",
+		nTimeStamp = 1791989207,
+		szOfficialVoicePacketUUID = "",
+		szEdition = "zhcn_hd",
+	},
+	DOODAD = {
+		[332] = {
+			{
+				dwID = 4835,
+			},
+		},
+	},
+}

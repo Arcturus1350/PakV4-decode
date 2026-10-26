@@ -1,0 +1,20 @@
+# 工作数据（解包 / 反编译临时目录）
+input/
+output/
+**/_staging_*/
+*_技能脚本*/
+*_技能脚本_*/
+
+# 编译与依赖产物
+**/target/
+**/__pycache__/
+*.pyc
+
+# 本地解包输出
+*.extract/
+
+# IDE / OS
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
